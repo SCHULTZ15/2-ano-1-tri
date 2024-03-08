@@ -1,1 +1,3 @@
-<img .imagem-brawlhalla src="HTML-Progressivo.png" height="50" width="300">
+.imagem-brawlhalla{
+    <img src="imagem-brawlhalla" height="50" width="300">
+}
