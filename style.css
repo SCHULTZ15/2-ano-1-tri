@@ -2,5 +2,9 @@
     width: 20%;
     align-items: center;
 }
-.imagem-brawlhalla
-{left: 40; }
+.imagem-brawlhalla{
+    left: 60%;
+    top: 70%;
+    right: 70%;
+    nav-up: 50%;
+}
