@@ -1,10 +1,6 @@
 .imagem-brawlhalla{
     width: 20%;
     align-items: center;
-}
-.imagem-brawlhalla{
-    left: 90%;
-    top: 70%;
-    right: 70%;
-    nav-up: 50%;
+    display: flex;
+    justify-content: center;
 }
